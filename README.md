@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reuvin Hernandez</h1>
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
-<p align="center">
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

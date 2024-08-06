@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Toolss:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <h1>Mobile App Development </h1>  
 <div style="display:flex; gap: 10;">
